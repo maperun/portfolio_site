@@ -1,12 +1,16 @@
+* {box-sizing: border-box;}
+
 #intro {
 	background-color: #FFF9BA;
 	color: black;
 	line-height: 1;
-	padding: 2px;
+	padding: 10px;
+	margin: 10px;
 }
 
 body {
 	background: black;
+	/*margin: 20px;*/
 }
 
 h1	{
@@ -24,10 +28,25 @@ h4	{
 }
 
 img	{
-	width: 300px;
-	padding-top: 10px;		
+	width: 30%;	
+	float: left;
+	margin: 10px;
+	padding-bottom: 10px;		
 }
 
 #about {
-	color: white;	
+	color: white;
+	width: 60%;		
+	float: right;
+	padding: 20px;
+	margin: 10px;	
+}
+
+.contact {
+	color: black;
+	background-color: #FFF9BA;
+	text-align: center;
+	padding: 20px;
+	margin: 10px;
+	clear: both;
 }
