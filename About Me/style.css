@@ -1,7 +1,7 @@
 * {box-sizing: border-box;}
 
 #intro {
-	background-color: #FFF9BA;
+	background-color: #FFF3D9;
 	color: black;
 	line-height: 1;
 	padding: 10px;
@@ -19,7 +19,7 @@ h1	{
 }
 
 h2	{
-	color: #FFF9BA;
+	color: #FFF3D9;
 }
 
 h4	{
@@ -43,13 +43,12 @@ img	{
 }
 
 .hover1:hover {
-	color: #FFF9BA;
+	color: #FFF3D9;
 }
 
 img {
 	width: 30%;
 	float: left;
-	margin: 10px;
 	padding-bottom: 10px;
 	clear: both;
 }
@@ -64,7 +63,7 @@ img {
 
 #contact {
 	color: black;
-	background-color: #FFF9BA;
+	background-color: #FFF3D9;
 	text-align: center;
 	padding: 20px;
 	margin: 10px;
@@ -77,6 +76,6 @@ img {
 
 .hover2:hover {
 	background-color: black;
-	color: #FFF9BA;
+	color: #FFF3D9;
 }
 
