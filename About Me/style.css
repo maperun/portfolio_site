@@ -42,6 +42,10 @@ img	{
 	margin: 10px;	
 }
 
+a:hover {
+	color: #FFF9BA;
+}
+
 .contact {
 	color: black;
 	background-color: #FFF9BA;
