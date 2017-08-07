@@ -46,7 +46,23 @@ a:hover {
 	color: #FFF9BA;
 }
 
-.contact {
+img {
+	width: 30%;
+	float: left;
+	margin: 10px;
+	padding-bottom: 10px;
+	clear: both;
+}
+
+#slogan {
+	color: white;
+	width: 60%;
+	float: right;
+	padding: 20px;
+	margin: 10px;
+}
+
+#contact {
 	color: black;
 	background-color: #FFF9BA;
 	text-align: center;
@@ -54,3 +70,4 @@ a:hover {
 	margin: 10px;
 	clear: both;
 }
+
